@@ -1,0 +1,1 @@
+import{ad as t}from"./index.3c7869e1.js";const i=t("furnitures",{persist:!0,state:()=>({furnitureDetailes:[]}),getters:{},actions:{showDetailes(e){this.furnitureDetailes=e},showDetailesChair(e){this.furnitureDetailes=e}}});export{i as f};
