@@ -19,8 +19,8 @@
                 </v-col>
                 <v-col cols="12" lg="5" sm="6">
                     <v-img
-                        src="@/assets/hero/m-5.png"
-                        lazy-src="@/assets/hero/m-5.png"
+                        src="../assets/hero/m-5.png"
+                        lazy-src="../assets/hero/m-5.png"
                         alt="m-1"
                         class="w-auto"
                     />
